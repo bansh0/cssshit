@@ -1,6 +1,6 @@
 body #app-mount .app-3xd6d0 .base-2jDfDU {
   top: 0 !important;
-  bottom: var(--server-container) !important;
+  right: var(--server-container) !important;
 }
 body #app-mount .guilds-2JjMmN {
   top: unset !important;

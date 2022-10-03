@@ -5,8 +5,9 @@ body #app-mount .app-3xd6d0 .base-2jDfDU {
 body #app-mount .guilds-2JjMmN {
   top: unset !important;
   left: 100vw;
-  bottom: 0 !important;
-  transform-origin: bottom left;
+  bottom: unset !important;
+  transform-origin: unset;
+  transform: rotate(0);
 }
 body #app-mount .guilds-2JjMmN [class*=pill] {
   top: unset !important;
